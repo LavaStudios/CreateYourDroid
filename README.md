@@ -31,7 +31,7 @@ Please keep the mods and the resources which are in the Mods and Default folders
 ## How to install
 You will need:
 
-- Game Keyboard+, a keyboard simulation program or a physical keyboard
+- Game Keyboard+, a keyboard simulation app or a physical keyboard
 
 - The apk that you can get from the releases page 
 
