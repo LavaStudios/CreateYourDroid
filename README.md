@@ -1,30 +1,24 @@
-# Create Your Frisk - Lua moddable Undertale engine
+# Create Your Droid - A port of CYF : the Lua moddable Undertale engine
 
-Welcome to the Git repository for **Create Your Frisk**, a fork of [**Unitale**](https://github.com/lvk/Unitale/) by lvk!
+Welcome to the Git repository for **Create Your Droid**, a fork of [**Create Your Frisk**](www.github.com/RhenaudTheLukark/CreateYourFrisk) by RhenaudTheLukark!
 
-When testing, you'll want to load the Disclaimer scene from the Scenes folder.
 
-Editing the Overworld requires **Unity** (see **Unity Version** below).
 
 ***
 
 ## Download
 
-To download the engine, go to [**the releases page**](https://github.com/RhenaudTheLukark/CreateYourFrisk/releases).
+To download the engine, go to [**the releases page**]().
 
 ***
 
 ## Unity Version
 
-CYF's latest version is **v0.6.4**. It was built using **Unity Personal 2018.2.13f1**.
+CYD's latest version is **v0.6.4**. It was built using **Unity Personal 2018.4.15f1**.
 
 To get this version of Unity, either:
 
 * [**Download the Unity Hub**](https://unity3d.com/get-unity/download),  
-* [**Find it in the Unity Version Archive**](https://unity3d.com/get-unity/download/archive) (remember, it's **2018.2.13**) or  
-* [**Click here for a direct download**](https://netstorage.unity3d.com/unity/83fbdcd35118/UnityDownloadAssistant-2018.2.13f1.exe).
-
-***
 
 ## Required files
 
@@ -32,6 +26,28 @@ Please keep the mods and the resources which are in the Mods and Default folders
 ~~The only mods you can remove safely are Mionn and Donald Trump.~~ *(Removed as of CYF v0.6.2)*
 
 ***
+## How to install
+You will need:
+
+- Game Keyboard+, a keyboard simulation program or a physical keyboard
+
+- The apk that you can get from the releases page 
+
+Steps : 
+
+- Install the apk
+
+- Open it and close it after a few seconds 
+
+- Download the "Default" and "Mods" folders
+
+- now go to:  "internal storage/Android/Data/com.TiredTeam.CYFAndroid/files
+
+- Copy folders "Default" and "Mods" inside
+
+- Open the game
+
+- Enjoy!
 
 ## Licenses
 
