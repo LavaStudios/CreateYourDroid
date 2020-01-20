@@ -28,15 +28,25 @@ Please keep the mods and the resources which are in the Mods and Default folders
 ***
 ## How to install
 You will need:
+
 - Game Keyboard+, a keyboard simulation program or a physical keyboard
+
 - The apk that you can get from the releases page 
+
 Steps : 
+
 1 - Install the apk
+
 2 - Open it and close it after a few seconds 
+
 3 - Download the "Default" and "Mods" folders
+
 4 - now go to:  "internal storage/Android/Data/com.TiredTeam.CYFAndroid/files
+
 5 - Copy folders "Default" and "Mods" inside
+
 6 - Open the game
+
 7 - Enjoy!
 
 ## Licenses
