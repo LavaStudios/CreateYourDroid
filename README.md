@@ -1,4 +1,4 @@
-# Create Your Frisk - Lua moddable Undertale engine
+# Create Your Droid - A port of CYF : the Lua moddable Undertale engine
 
 Welcome to the Git repository for **Create Your Droid**, a fork of [**Create Your Frisk**](www.github.com/RhenaudTheLukark/CreateYourFrisk) by RhenaudTheLukark!
 
