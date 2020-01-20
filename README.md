@@ -35,19 +35,19 @@ You will need:
 
 Steps : 
 
-1 - Install the apk
+- Install the apk
 
-2 - Open it and close it after a few seconds 
+- Open it and close it after a few seconds 
 
-3 - Download the "Default" and "Mods" folders
+- Download the "Default" and "Mods" folders
 
-4 - now go to:  "internal storage/Android/Data/com.TiredTeam.CYFAndroid/files
+- now go to:  "internal storage/Android/Data/com.TiredTeam.CYFAndroid/files
 
-5 - Copy folders "Default" and "Mods" inside
+- Copy folders "Default" and "Mods" inside
 
-6 - Open the game
+- Open the game
 
-7 - Enjoy!
+- Enjoy!
 
 ## Licenses
 
