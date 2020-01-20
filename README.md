@@ -8,7 +8,7 @@ Welcome to the Git repository for **Create Your Droid**, a fork of [**Create You
 
 ## Download
 
-To download the engine, go to [**the releases page**]().
+To download the engine, go to [**the releases page**](https://github.com/LavaStudios/CreateYourDroid/releases).
 
 ***
 
@@ -41,7 +41,7 @@ Steps :
 
 - Download the "Default" and "Mods" folders
 
-- now go to:  "internal storage/Android/Data/com.TiredTeam.CYFAndroid/files
+- now go to:  "internal storage/Android/Data/com.TiredTeam.CYFAndroid/files"
 
 - Copy folders "Default" and "Mods" inside
 
