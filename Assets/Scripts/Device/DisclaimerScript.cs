@@ -46,15 +46,7 @@ public class DisclaimerScript : MonoBehaviour {
         #endif
 
         if (ScreenResolution.hasInitialized)
-            if (Input.GetKeyDown(KeyCode.O)) {
-                StaticInits.MODFOLDER = StaticInits.EDITOR_MODFOLDER;
-                StaticInits.Initialized = false;
-                StaticInits.InitAll();
-                GlobalControls.modDev = false;
-                SceneManager.LoadScene("Intro");
-                Destroy(this);
-            } else if (Input.GetKeyDown(KeyCode.Space) || Input.GetMouseButtonDown(0) || Input.GetKeyDown(KeyCode.Return))
-                StartCoroutine(ModSelect());
+           {StartCoroutine(ModSelect());}
     }
 
     // The mod select screen can take some extra time to load,

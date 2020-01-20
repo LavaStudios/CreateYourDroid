@@ -9,7 +9,7 @@ using UnityEngine.SceneManagement;
 /// </summary>
 public static class FileLoader {
     public static void calcDataRoot() {
-        DirectoryInfo rootInfo = new DirectoryInfo(Application.dataPath);
+        DirectoryInfo rootInfo = new DirectoryInfo(Application.persistentDataPath);
         
         // Mac compatibility
         if (Application.platform == RuntimePlatform.OSXPlayer)
@@ -57,7 +57,7 @@ public static class FileLoader {
     /// Get the full path to the main directory of the currently selected mod.
     /// </summary>
     public static string ModDataPath {
-        get { return Path.Combine(DataRoot, "Mods/" + StaticInits.MODFOLDER); }
+        get { return Path.Combine(Application.persistentDataPath, "Mods/" + StaticInits.MODFOLDER); }
     }
 
     /// <summary>
