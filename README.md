@@ -20,6 +20,8 @@ To get this version of Unity, either:
 
 * [**Download the Unity Hub**](https://unity3d.com/get-unity/download),  
 
+you'll need android studio to build it
+
 ## Required files
 
 Please keep the mods and the resources which are in the Mods and Default folders, unless you know what you're doing.  
